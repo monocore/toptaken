@@ -1,0 +1,3 @@
+name = toptaken
+description = toptaken view, contenttype and paragraph bundle
+core = 7.x
